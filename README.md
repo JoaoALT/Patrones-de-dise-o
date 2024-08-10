@@ -17,6 +17,7 @@ Repositorio para la aplicación de los patrones de diseño en programación, int
    
 4. Command - Patrón de diseño para el ejercicio numero cuatro.
 
+![Punto4 drawio](https://github.com/user-attachments/assets/9f878a6f-fa93-45ba-806b-0b5d335b6e5b)
 
 
 5. Decorator - Patrón de diseño para el ejercicio numero cinco.
