@@ -1,5 +1,5 @@
 # Patrones-de-diseño
-Repositorio para la aplicación de los patrones de diseño en programación.
+Repositorio para la aplicación de los patrones de diseño en programación, integrantes Mateo Gonzales Cano, Joao Alexandre Munoz.
 
 1. Prototype - Patrón de diseño para el ejercicio numero uno.
 
